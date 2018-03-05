@@ -1,0 +1,6 @@
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\bin\Debug\Mathscals.exe
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\bin\Debug\Mathscals.pdb
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\obj\Debug\Mathscals.csprojResolveAssemblyReference.cache
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\obj\Debug\Mathscals.csproj.CoreCompileInputs.cache
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\obj\Debug\Mathscals.exe
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\obj\Debug\Mathscals.pdb
