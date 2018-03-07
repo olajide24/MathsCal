@@ -25,7 +25,7 @@ namespace MathsCals
                 if (ops == "+" || ops == "-" || ops == "*" || ops == "/")
                 {
                     Console.WriteLine("Please select a diffculty level....1, 2 or 3");
-                    while (true)
+                    while (name!= null)
                     {
                         try
                         {
